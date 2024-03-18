@@ -21,7 +21,7 @@ git clone https://github.com/your-username/license-plate-recognition.git
 
 2. Navigate to the project directory:
 
-3. Download the license plate cascade classifier XML file, `AK.xml`, and place it in the project directory.
+3. Download the SAmple video in link:"https://drive.google.com/file/d/12sBfgLICdQEnDSOkVFZiJuUE6d3BeanT/view"
 
 4. Run the `main.py` script:
 
